@@ -1,0 +1,16 @@
+@font-face {
+    font-family: gandom;
+    src: url("./assets/font/Gandom.woff") format(woff);
+}
+
+* {
+    box-sizing: border-box;
+}
+
+
+body {
+    margin: 0;
+    direction: rtl;
+    font-family: gandom;
+
+}
